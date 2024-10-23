@@ -12,5 +12,5 @@
 3. for문과 메소드
 4. 파일입출력과 csv
 5. boolean과 if문
-6. 반복문 심화(break, continue)
+6. 반복문 심화
 7. 딕셔너리
